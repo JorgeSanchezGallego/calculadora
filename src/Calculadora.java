@@ -11,7 +11,7 @@ public class Calculadora {
         System.out.println("Si está buscando dividir, escriba dividir");
         System.out.println("Si desea saber el resto de una division, escriba resto");
         System.out.println("Si desea apagar la calculadora, escriba off");
-        System.out.println("Hola! ¿qué operacion desea efectuar?");
+        System.out.println("Holaa! ¿qué operacion desea efectuar?");
         String operacion = teclado.next();
 
 
